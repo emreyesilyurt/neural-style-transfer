@@ -1,5 +1,5 @@
 
-<img src="https://github.com/emreyesilyurt/neural_style_transfer/blob/master/content.jpg?raw=true" width="300"/> <img src="https://github.com/emreyesilyurt/neural_style_transfer/blob/master/style.jpg?raw=true" width="300"/>
+<img src="https://github.com/emreyesilyurt/neural_style_transfer/blob/master/content.jpg?raw=true" width="500"/> <img src="https://github.com/emreyesilyurt/neural_style_transfer/blob/master/style.jpg?raw=true" width="300"/>
 
 
 ## Content Image
