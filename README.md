@@ -14,7 +14,7 @@
     <td>Stylized Image</td>
   </tr>
   <tr>
-    <td><img src="https://github.com/emreyesilyurt/neural_style_transfer/blob/master/stylized-image.png?raw=true" width=600 height=600></td>
+    <td><img src="https://github.com/emreyesilyurt/neural_style_transfer/blob/master/stylized-image.png?raw=true" width=600 height=450></td>
   </tr>
  </table>
 
