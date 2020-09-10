@@ -9,6 +9,14 @@
   </tr>
  </table>
 
+<table>
+  <tr>
+    <td>Stylized Image</td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/emreyesilyurt/neural_style_transfer/blob/master/stylized-image.png?raw=true" width=535 ></td>
+  </tr>
+ </table>
 
 
 ## Content Image
