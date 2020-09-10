@@ -1,14 +1,7 @@
-
-<img src="https://github.com/emreyesilyurt/neural_style_transfer/blob/master/content.jpg?raw=true" width="535"/> <img src="https://github.com/emreyesilyurt/neural_style_transfer/blob/master/style.jpg?raw=true" width="300"/>
-
-
-
-
-
 <table>
   <tr>
-    <td>First Screen Page</td>
-     <td>Holiday Mention</td>
+    <td>Content Image</td>
+     <td>Style Image</td>
   </tr>
   <tr>
     <td><img src="https://github.com/emreyesilyurt/neural_style_transfer/blob/master/content.jpg?raw=true" width=535 ></td>
