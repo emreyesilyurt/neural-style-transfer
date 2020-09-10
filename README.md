@@ -11,8 +11,8 @@
      <td>Holiday Mention</td>
   </tr>
   <tr>
-    <td><img src="https://github.com/emreyesilyurt/neural_style_transfer/blob/master/content.jpg?raw=true" width=270 height=480></td>
-    <td><img src="https://github.com/emreyesilyurt/neural_style_transfer/blob/master/style.jpg?raw=true" width=270 height=480></td>
+    <td><img src="https://github.com/emreyesilyurt/neural_style_transfer/blob/master/content.jpg?raw=true" width=535 height=480></td>
+    <td><img src="https://github.com/emreyesilyurt/neural_style_transfer/blob/master/style.jpg?raw=true" width=300 height=480></td>
   </tr>
  </table>
 
