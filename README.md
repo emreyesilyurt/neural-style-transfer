@@ -9,9 +9,8 @@
   </tr>
    </table>
  <table>
-
   <tr>
-  	    <td><img src=" https://github.com/emreyesilyurt/neural_style_transfer/blob/master/style.jpg?raw=true" width=1070 ></td>
+  	<td><img src=" https://github.com/emreyesilyurt/neural_style_transfer/blob/master/style.jpg?raw=true" width=1070 ></td>
   </tr>
  </table>
 
